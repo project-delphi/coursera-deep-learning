@@ -1,6 +1,10 @@
 # coursera-deep-learning
 
-Notes and tutorials following coursera [deep learning](deeplearning.ai) specialization series of courses. The courses covered are:
+![Coursera](coursera.png)
+
+![Deep Learning](deep_learning_ai.png)
+
+Notes and tutorials following coursera [deep learning](deeplearning.ai) specialization series of courses on [coursera](coursera.org). The courses covered are:
 
 * Neural Networks and Deep Learning
 * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
