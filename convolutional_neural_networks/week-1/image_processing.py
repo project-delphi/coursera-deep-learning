@@ -5,6 +5,6 @@ def stuff(x,y):
     """[summary]
     
     Arguments:
-        x {[type]} -- [description]
-        y {[type]} -- [description]
+        x {} -- [description]
+        y {} -- [description]
     """

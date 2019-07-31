@@ -12,6 +12,8 @@ Notes and tutorials following coursera [deep learning](deeplearning.ai) speciali
 * Convolutional Neural Networks
 * Sequence Models
 
+Graded assignments and quizes have been moved to a private repo.
+
 Also covered are the additional courses from deeplearinng.ai:
 
 * AI For Everyone
